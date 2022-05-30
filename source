@@ -11,7 +11,7 @@
 
 
 --// Settings
-if game.Players.LocalPlayer.UserId == 1805337330 or game.Players.LocalPlayer.UserId == 52195877127571257 then
+if game.Players.LocalPlayer.UserId == 1805337330 or game.Players.LocalPlayer.UserId == 2860724982 then
     else
     game.Players.LocalPlayer:Kick("You are not whitelisted! farhan#70202")
     end
