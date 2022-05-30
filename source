@@ -175,7 +175,7 @@ end
 
 function sendNotification(text)
     game.StarterGui:SetCore("SendNotification", {
-        Title = "universal.fun",
+        Title = "farhanW",
         Text = text,
         Duration = 5
     })
