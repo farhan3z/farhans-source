@@ -322,7 +322,7 @@ local Misc = main:CreateTab("Misc", "rbxassetid://3192519002")
 ----------------------------------------
 
 ----------------------------------------
-Home:CreateLabel("Welcome back!", false)
+Home:CreateLabel("farhans private BETA", false)
 ----------------------------------------
 
 ----------------------------------------
